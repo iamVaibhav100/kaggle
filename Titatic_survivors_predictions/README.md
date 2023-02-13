@@ -1,0 +1,2 @@
+# Titanic survivors predictions
+This is a simple project to predict the survivors of the Titanic disaster. The data is taken from the Kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data). The data is split into train and test sets. The train set is used to train the model and the test set is used to test the model. The model is then used to predict the survivors of the test set. The predictions are then saved in a csv file.
